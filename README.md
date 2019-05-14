@@ -1,5 +1,6 @@
 # mpu6050_6dof
 
+test video https://www.youtube.com/watch?v=oLpSd0Yygnk
 
 ### Step 1 install mpu6050_serial_to_imu
 
