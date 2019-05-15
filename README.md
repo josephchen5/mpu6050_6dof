@@ -6,6 +6,7 @@ test video https://www.youtube.com/watch?v=oLpSd0Yygnk
 
 ```bash
 sudo apt-get install ros-kinetic-serial
+sudo apt-get install ros-kinetic-imu-tools
 export CATKIN_WS=~/catkin_ws
 mkdir -p $CATKIN_WS/src ###如果之前沒有建立才使用
 cd $CATKIN_WS/src
