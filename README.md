@@ -22,5 +22,6 @@ catkin_make
 ```bash
 ls /dev/ttyUSB*
 sudo chmod a+rw /dev/ttyUSB0
+git clone https://github.com/josephchen5/mpu6050_6dof.git
 roslaunch mpu6050_6dof imu_demo.launch
 ```
